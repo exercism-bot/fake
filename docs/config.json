@@ -1,0 +1,32 @@
+{
+  "docs": [
+    {
+      "uuid": "db979937-cbd2-4948-9cb4-a9682e8e37cb",
+      "slug": "installation",
+      "path": "docs/INSTALLATION.md",
+      "title": "Installing Fake locally",
+      "blurb": "Learn how to install Fake locally to solve Exercism's exercises on your own machine"
+    },
+    {
+      "uuid": "e39341a6-7f49-41c4-83d0-b804dbf5d745",
+      "slug": "learning",
+      "path": "docs/LEARNING.md",
+      "title": "How to learn Fake",
+      "blurb": "An overview of how to get started from scratch with Fake"
+    },
+    {
+      "uuid": "e7f3a2e4-7b55-4452-9c6b-44894bbe6475",
+      "slug": "tests",
+      "path": "docs/TESTS.md",
+      "title": "Testing on the Fake track",
+      "blurb": "Learn how to test your Fake exercises on Exercism"
+    },
+    {
+      "uuid": "c0f7292c-dbfc-4612-8c91-5203e168e938",
+      "slug": "resources",
+      "path": "docs/RESOURCES.md",
+      "title": "Useful Fake resources",
+      "blurb": "A collection of useful resources to help you master Fake"
+    }
+  ]
+}
